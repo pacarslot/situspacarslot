@@ -1,3 +1,17 @@
+<p align="center">
+<img src="assets/logo_pacarslot.png" width="180">
+</p>
+
+<h1 align="center">
+PACARSLOT
+</h1>
+
+<p align="center">
+<img src="assets/SLIDE-1-PACARSLOT.webp">
+</p>
+
+---
+
 # PACARSLOT
 
 Repository resmi pengembangan website **PACARSLOT**.

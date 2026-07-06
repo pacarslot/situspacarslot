@@ -84,7 +84,7 @@ Dokumentasi proyek akan diperbarui secara berkala sesuai perkembangan website.
 
 ## Website
 
-https://pacarslot.net
+https://pacarslot.com
 
 ---
 

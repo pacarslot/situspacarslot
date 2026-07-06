@@ -21,7 +21,7 @@ Sitemap: https://pacarslot.com/sitemap.xml
 
 ## Lokasi
 
-https://pacarslot.net/robots.txt
+https://pacarslot.com/robots.txt
 
 ## Status
 

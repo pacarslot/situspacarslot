@@ -59,6 +59,11 @@ PACARSLOT merupakan proyek website yang dikembangkan dengan fokus pada:
 
 ## Dokumentasi
 
+- [Robots.txt](docs/robots.md)
+- [Sitemap](docs/sitemap.md)
+- [SEO](docs/seo.md)
+- [Changelog](docs/changelog.md)
+
 Dokumentasi proyek akan diperbarui secara berkala sesuai perkembangan website.
 
 ---

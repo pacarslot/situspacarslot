@@ -16,7 +16,7 @@ Website PACARSLOT menggunakan file `robots.txt` untuk mengatur bagaimana mesin p
 User-agent: *
 Allow: /
 
-Sitemap: https://pacarslot.net/sitemap.xml
+Sitemap: https://pacarslot.com/sitemap.xml
 ```
 
 ## Lokasi

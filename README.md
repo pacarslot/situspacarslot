@@ -1,13 +1,21 @@
 <p align="center">
-<img src="assets/logo_pacarslot.png" width="180">
+  <img src="https://raw.githubusercontent.com/pacarslot/situspacarslot/main/assets/Logo%20pacarslot.png" width="220" alt="PACARSLOT Logo">
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/pacarslot/situspacarslot/main/assets/favicon%20pacarslot%20500.png" width="80" alt="PACARSLOT Favicon">
 </p>
 
 <h1 align="center">
-PACARSLOT
+  PACARSLOT
 </h1>
 
 <p align="center">
-<img src="assets/SLIDE-1-PACARSLOT.webp">
+  <b>Situs Resmi • Responsive • SEO Ready • Fast Loading</b>
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/pacarslot/situspacarslot/main/assets/Gif%20Pacarslot.gif" width="100%" alt="PACARSLOT Banner">
 </p>
 
 ---
@@ -16,40 +24,49 @@ PACARSLOT
 
 Repository resmi pengembangan website **PACARSLOT**.
 
-Repository ini digunakan sebagai dokumentasi proyek website, pengembangan antarmuka, serta pengelolaan aset pendukung.
+Repository ini digunakan sebagai dokumentasi proyek website, pengembangan antarmuka (UI/UX), optimasi SEO, serta pengelolaan aset digital yang digunakan pada website PACARSLOT.
 
 ---
 
-## Tentang Proyek
+# 🚀 Tentang Proyek
 
-PACARSLOT merupakan proyek website yang dikembangkan dengan fokus pada:
+PACARSLOT dikembangkan dengan fokus pada kualitas website modern, meliputi:
 
-- Tampilan responsif
-- Optimasi SEO
-- Kecepatan akses
-- Struktur kode yang rapi
-- Kompatibel untuk desktop dan perangkat seluler
+- Responsive Design
+- SEO Optimization
+- Mobile Friendly
+- Fast Loading
+- Clean UI
+- Structured Data
+- Open Graph
+- Performance Optimization
 
 ---
 
-## Teknologi
+# 🛠️ Teknologi
 
 - HTML5
 - CSS3
 - JavaScript
 - AMP HTML
+- JSON-LD Schema
+- Open Graph
+- Cloudflare CDN
 
 ---
 
-## Struktur Proyek
+# 📁 Struktur Proyek
 
-```
+```text
 /
 ├── assets/
 │   ├── css/
 │   ├── js/
 │   ├── images/
-│   └── icons/
+│   ├── icons/
+│   ├── Logo pacarslot.png
+│   ├── favicon pacarslot 500.png
+│   └── Gif Pacarslot.gif
 │
 ├── docs/
 ├── index.html
@@ -60,38 +77,61 @@ PACARSLOT merupakan proyek website yang dikembangkan dengan fokus pada:
 
 ---
 
-## Fitur
+# ✨ Fitur
 
-- Responsive Design
-- SEO Friendly
-- Mobile Friendly
-- Fast Loading
-- Open Graph Metadata
+- ✅ Responsive Layout
+- ✅ SEO Friendly
+- ✅ Mobile Friendly
+- ✅ AMP Ready
+- ✅ Fast Loading
+- ✅ Open Graph
+- ✅ Structured Data
+- ✅ Clean Code
+- ✅ Optimized Images
+- ✅ Cross Browser Support
+
+---
+
+# 📚 Dokumentasi
+
+- Robots.txt
+- Sitemap.xml
+- SEO Configuration
 - Structured Data
+- Open Graph
+- Changelog
+
+Dokumentasi proyek akan terus diperbarui mengikuti perkembangan website PACARSLOT.
 
 ---
 
-## Dokumentasi
-
-- [Robots.txt](docs/robots.md)
-- [Sitemap](docs/sitemap.md)
-- [SEO](docs/seo.md)
-- [Changelog](docs/changelog.md)
-
-Dokumentasi proyek akan diperbarui secara berkala sesuai perkembangan website.
-
----
-
-## Website
+# 🌐 Website
 
 https://pacarslot.com
 
 ---
 
-## Lisensi
+# 📂 Repository
+
+https://github.com/pacarslot/situspacarslot
+
+---
+
+# ❤️ Dikembangkan Oleh
+
+PACARSLOT Development Team
+
+---
+
+# 📄 Lisensi
 
 MIT License
 
 ---
 
-© 2026 PACARSLOT
+<p align="center">
+
+© 2026 <b>PACARSLOT</b><br>
+All Rights Reserved.
+
+</p>

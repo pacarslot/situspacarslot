@@ -117,13 +117,26 @@ Dokumentasi proyek akan terus diperbarui mengikuti perkembangan website PACARSLO
 
 # 🌐 Website
 
-https://pacarslot.com
+<p align="center">
+
+<a href="https://pacarslot.com">
+<img src="https://img.shields.io/badge/🌐%20Website-PACARSLOT-gold?style=for-the-badge">
+</a>
+
+</p>
 
 ---
 
 # 📂 Repository
 
-https://github.com/pacarslot/situspacarslot
+<p align="center">
+
+<a href="https://github.com/pacarslot">
+<img src="https://img.shields.io/github/followers/pacarslot?style=for-the-badge">
+
+</a>
+
+</p>
 
 ---
 
